@@ -49,8 +49,3 @@ google-services.json
 *.tmp
 *.swp
 *~
-
-# Episode starter project is local-only; keep its specification in Git
-/2-can-you-run-gemma-4-directly-on-android/starter-project/**
-!/2-can-you-run-gemma-4-directly-on-android/starter-project/specs/
-!/2-can-you-run-gemma-4-directly-on-android/starter-project/specs/**
